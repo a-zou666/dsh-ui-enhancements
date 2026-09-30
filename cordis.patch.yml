@@ -143,7 +143,7 @@
 # 模型控制面板
 - insert:
     - id: model-controls
-      name: '@reagent/dsh-model-controls'
+      name: '@local/dsh-ui-enhancements'
       description: 模型控制面板——提供商暂停开关、单模型推理强度设置，以及对话级思考模式选择器
       config:
         disabledProviders: []
